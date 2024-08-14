@@ -1,0 +1,17 @@
+# Exclude the Go module cache
+**/go/pkg
+
+# Exclude local build artifacts
+*.exe
+*.test
+*.out
+
+# Exclude temporary files and directories
+*.tmp
+*.log
+*.cache
+*.swp
+.DS_Store
+
+# Exclude the .git directory
+.git

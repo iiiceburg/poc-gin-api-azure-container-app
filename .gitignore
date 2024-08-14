@@ -1,0 +1,45 @@
+# Binaries
+bin/
+main
+
+# Build artifacts
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Dependency directories
+vendor/
+go.sum
+
+# Go module cache
+.gomodcache/
+
+# IDE and editor directories and files
+.idea/
+*.iml
+*.vscode/
+*.sublime-workspace
+*.sublime-project
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Coverage reports
+*.coverprofile
+*.out
+
+# Environment files
+.env
+
+# Docker files
+*.dockerfile
+Dockerfile
+docker-compose.yml
