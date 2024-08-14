@@ -38,8 +38,3 @@ Thumbs.db
 
 # Environment files
 .env
-
-# Docker files
-*.dockerfile
-Dockerfile
-docker-compose.yml
